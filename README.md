@@ -12,10 +12,10 @@
   </a>
 </p>
 
-## 🗣 About
+### 🗣 About
 This is a Koala Software backend test project, where participants received 3 challenges, which are:
 
-### 1. Algorithms
+## 1. Algorithms
 
 # 1.1 Fibonacci.js
 
