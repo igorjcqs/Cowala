@@ -21,7 +21,7 @@ This is a Koala Software backend test project, where participants received 3 cha
 
 Participants must create a function that always takes a number as an argument, and must return an array with the N elements of the Fibonacci sequence.
 ```
-💡 Ex.: ao passar 6 como argumento, deve retornar: [0, 1, 1, 2, 3, 5].
+💡 Ex.: When passing 6 as an argument, it should return: [0, 1, 1, 2, 3, 5].
 ```
 
 ### 1.2 [Classificador.js 📋](https://github.com/igorjcqs/Cowala/blob/master/Algorithms/classificador.js)
