@@ -81,11 +81,13 @@ Ex: (1, 3)
 
 Participants must create a CRUD in memory (list as database) that has the 5 methods listed below:
 
+```jsx
 - CREATE - Create an item in the market list, the model created have a name, a price and an id. Example: [{ id: 1, item: rice, price: 1.50}];
 - UPDATE - Update the price of an item. The item must be found through its id;
 - READ-ALL - List all items in the market list;
 - READ-ONE - List a single item. The item is searched by its id;
 - DELETE - Deletes an item from the list. The item to be deleted is searched by its id;
+```
 
 ### 3. Criando um CRUD de uma lista de conversão de moedas consumindo uma api externa
 
