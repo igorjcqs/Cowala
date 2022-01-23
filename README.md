@@ -24,7 +24,7 @@ Create a function that always takes a number as an argument, and must return an 
 💡 Ex.: ao passar 6 como argumento, deve retornar: [0, 1, 1, 2, 3, 5].
 ```
 
-### 2. Market list
+### 2. Market list 🛒
 
 Participants must have a CRUD in memory (list as database) that has the 5 methods listed below:
 
