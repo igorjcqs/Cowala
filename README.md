@@ -11,3 +11,5 @@
     <img alt="Twitter: jcqs0" src="https://img.shields.io/twitter/follow/jcqs0.svg?style=social" target="_blank" />
   </a>
 </p>
+
+## 🗣 About
