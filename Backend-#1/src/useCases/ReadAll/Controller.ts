@@ -7,7 +7,7 @@ export class ReadAllItemsController {
     try {
       const items = await this.readAllItemsUseCase.execute();
 
-      return response.status(201).json({ items: items });
+      return response.status(200).json({ items: items });
     } catch (error) {
       return response.status(400).json({
         message: error.message || "Unexpected error.",
