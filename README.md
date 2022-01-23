@@ -17,13 +17,12 @@ This is a Koala Software backend test project, where participants received 3 cha
 
 ### 1. Algorithms
 
-**1.1 fibonacci.js**
+# 1.1 Fibonacci.js
 
-Crie uma função que sempre recebe um número como argumento, e deve retornar uma array com os N elementos da sequência de Fibonacci.
-
-<aside>
-💡 Ex.: ao passar 6 como argumento, deve retornar: **[0, 1, 1, 2, 3, 5]**.
-</aside>
+Create a function that always takes a number as an argument, and must return an array with the N elements of the Fibonacci sequence.
+```
+💡 Ex.: ao passar 6 como argumento, deve retornar: [0, 1, 1, 2, 3, 5].
+```
 
 ### 2. Market list
 
