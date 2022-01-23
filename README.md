@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/i0XewhV.png" style="width: 30%;">
 </div>
 
-<h1 align="center">Welcome to readme-md-generator 👋</h1>
+<h1 align="center">Welcome to Cowala backend test 🐨</h1>
 <p align="center">
   <img src="https://img.shields.io/npm/v/readme-md-generator.svg?orange=blue" />
   <a href="https://www.npmjs.com/package/readme-md-generator">
