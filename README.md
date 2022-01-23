@@ -7,7 +7,7 @@
   <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-green.svg" target="_blank" />
   </a>
-  <a href="https://twitter.com/FranckAbgrall">
-    <img alt="Twitter: FranckAbgrall" src="https://img.shields.io/twitter/follow/FranckAbgrall.svg?style=social" target="_blank" />
+  <a href="https://twitter.com/jcqs0">
+    <img alt="Twitter: jcqs0" src="https://img.shields.io/twitter/follow/jcqs0.svg?style=social" target="_blank" />
   </a>
 </p>
