@@ -126,7 +126,7 @@ Install all dependecies with:
 ```jsx
 yarn 
 ```
-Rename ```.env.local``` to ```.env```, replace ```SERVER_PORT``` and ```DATABASE_URL``` with your preferred values:
+Rename ```.env.local``` to ```.env```, replace ```SERVER_PORT``` and ```DATABASE_URL``` with your preferred values.
 ### Run test project
 ```jsx
 yarn dev
