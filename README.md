@@ -21,7 +21,7 @@ This is a Koala Software backend test project, where participants received 3 cha
 
 Participants must create a function that always takes a number as an argument, and must return an array with the N elements of the Fibonacci sequence.
 ```jsx
-💡 Ex.: When passing 6 as an argument, it should return: [0, 1, 1, 2, 3, 5].
+💡 Ex: When passing 6 as an argument, it should return: [0, 1, 1, 2, 3, 5].
 ```
 
 ### 1.2 [Classificador.js 📋](https://github.com/igorjcqs/Cowala/blob/master/Algorithms/classificador.js)
@@ -44,7 +44,7 @@ And organize objects in the same way as a WhatsApp group and return an array of 
 
 Participants must create a function that always takes an object as an argument and returns it excluding properties with no value.
 ```jsx
-💡 Ex.: {"fizz": "buzz", "foo": null, "bar": 42} will return {"fizz": "buzz", "bar": 42}
+💡 Ex: {"fizz": "buzz", "foo": null, "bar": 42} will return {"fizz": "buzz", "bar": 42}
 ```
 
 ### 1.4 [Validade.js 📆](https://github.com/igorjcqs/Cowala/blob/master/Algorithms/validade.js)
