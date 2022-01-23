@@ -101,3 +101,18 @@ Exemple: [{ id: 1, originalCurrency: BRL, conversionCurrency: USD, valueSended: 
 - READ-ONE - List a single conversion registry. The registry to be listed is searched by its id;
 - DELETE - Deletes an conversion registry from the list. The registry to be deleted is searched by its id;
 ```
+
+## Author
+
+👤 **Igor Jacques**
+- Twitter: [@jcqs0](https://twitter.com/jcqs0)
+- Github: [@igorjcqs](https://github.com/igorjcqs)
+
+## Show your support
+
+Please ⭐️ this repository if this project helped you!
+
+## 📝 License
+
+Copyright © 2022 [Igor Jacques](https://github.com/igorjcqs).
+This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
