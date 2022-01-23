@@ -95,8 +95,7 @@ Example: [{ id: 1, item: rice, price: 1.50}];
 Participants must create an in-memory CRUD (list as database) that have the 5 methods listed below. The difference from the previous exercise is that the information for the crud will come from an [External API](https://docs.awesomeapi.com.br/api-de-moedas).
 
 ```jsx
-- CREATE - Create a record in the database containing the submitted amount, the converted amount, 
-the original currency and the conversion currency.
+- CREATE - Create a record in the database containing the submitted amount, the converted amount, the original currency and the conversion currency.
 Exemple: [{ id: 1, originalCurrency: BRL, conversionCurrency: USD, valueSended: 10, convertedValue: 50 }]
 - READ-ALL - List all conversion registrys;
 - READ-ONE - List a single conversion registry. The registry to be listed is searched by its id;
