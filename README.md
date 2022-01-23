@@ -109,7 +109,7 @@ Exemple: [{ id: 1, originalCurrency: BRL, conversionCurrency: USD, valueSended: 
 - yarn >= 1.22.15
 - git >= 2.31.1
 
-## Install
+### Install
 
 Clone the project repository with:
 ```jsx
@@ -124,15 +124,15 @@ Install all dependecies with:
 yarn 
 ```
 Rename ```.env.local``` to ```.env```, replace ```SERVER_PORT``` and ```DATABASE_URL``` with your preferred values:
-## Run test project
+### Run test project
 ```jsx
 yarn dev
 ```
-## Build
+### Build
 ```jsx
 yarn build
 ```
-## Run builded project
+### Run builded project
 ```jsx
 yarn start
 ```
