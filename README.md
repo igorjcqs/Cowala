@@ -1,3 +1,3 @@
 ﻿<div align="center">
-  <img src="https://svgshare.com/i/de5.svg" style="width: 50%;">
+  <img src="https://i.imgur.com/i0XewhV.png" style="width: 50%;">
 </div>
