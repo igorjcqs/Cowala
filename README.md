@@ -17,14 +17,14 @@ This is a Koala Software backend test project, where participants received 3 cha
 
 ## 1. Algorithms
 
-### 1.1 Fibonacci.js 🧮
+### 1.1 [Fibonacci.js 🧮]
 
 Participants must create a function that always takes a number as an argument, and must return an array with the N elements of the Fibonacci sequence.
 ```
 💡 Ex.: ao passar 6 como argumento, deve retornar: [0, 1, 1, 2, 3, 5].
 ```
 
-### 1.2 Classificador.js 📋
+### 1.2 [Classificador.js 📋](https://github.com/igorjcqs/Challenges/tree/Spring-Boot-CRUD)
 
 Participants must create a function that always receives an array of objects with the following properties:
 
@@ -39,6 +39,42 @@ And organize objects in the same way as a WhatsApp group and return an array of 
 1. You (property souEu: “true”)
 2. Responsibles (property responsible: “true” in alphabetic order)
 3. Not Responsibles (listed in alphabetical order)
+
+### 1.3 [Faxina.js 🧹](https://github.com/igorjcqs/Challenges/tree/Spring-Boot-CRUD)
+
+Participants must create a function that always takes an object as an argument and returns it excluding properties with no value.
+```
+💡 Ex.: {"fizz": "buzz", "foo": null, "bar": 42} will return {"fizz": "buzz", "bar": 42}
+```
+
+### 1.4 [Validade.js 📆](https://github.com/igorjcqs/Challenges/tree/Spring-Boot-CRUD)
+
+Participants must create a function that takes a date and a string. This string is the validity. You should return indicating whether it is expired or not.
+```
+💡 Ex: ("2021-11-17T20:40:09.503Z", "10d") return false; ("2021-12-10T00:00:00.000Z", "180d") return true.
+```
+
+### 1.5 [Molduras.js 🖼️](https://github.com/igorjcqs/Challenges/tree/Spring-Boot-CRUD)
+
+Participants must create a function that takes two numbers greater than zero and displays a frame with those dimensions on the screen (console).
+
+```jsx
+Ex: (9, 6)
+
++-------+
+-       -
+-       -
+-       -
+-       -
++-------+
+```
+
+```jsx
+*Ex: (1, 3)
++
+-
++*
+```
 
 ### 2. Market list 🛒
 
