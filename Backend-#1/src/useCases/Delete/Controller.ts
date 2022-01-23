@@ -11,7 +11,7 @@ export class DeleteItemController {
         id,
       });
 
-      return response.status(201).json({ message: "Item deleted." });
+      return response.status(200).json({ message: "Item deleted." });
     } catch (error) {
       return response.status(400).json({
         message: error.message || "Unexpected error.",
