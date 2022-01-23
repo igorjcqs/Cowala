@@ -104,6 +104,39 @@ Exemple: [{ id: 1, originalCurrency: BRL, conversionCurrency: USD, valueSended: 
 
 ## 🚀 Usage
 
+## Prerequisites
+- node >= 17.3.0
+- yarn >= 1.22.15
+- git >= 2.31.1
+
+## Install
+
+Clone the project repository with:
+```jsx
+git clone https://github.com/igorjcqs/Cowala
+```
+Access project folder with:
+```jsx
+cd PROJECT_YOU_WANT_TO_START
+```
+Install all dependecies with:
+```jsx
+yarn 
+```
+Rename ```.env.local``` to ```.env```, replace ```SERVER_PORT``` and ```DATABASE_URL``` with your preferred values:
+## Run test project
+```jsx
+yarn dev
+```
+## Build
+```jsx
+yarn build
+```
+## Run builded project
+```jsx
+yarn start
+```
+
 ## Author
 
 👤 **Igor Jacques**
