@@ -106,7 +106,7 @@ Exemple: [{ id: 1, originalCurrency: BRL, conversionCurrency: USD, valueSended: 
 
 👤 **Igor Jacques**
 - Twitter: [@jcqs0](https://twitter.com/jcqs0)
-- Instagram: [@jcqs](https://instagram.com/jcqs0)
+- Instagram: [@jcqs0](https://instagram.com/jcqs0)
 - Github: [@igorjcqs](https://github.com/igorjcqs)
 
 ## Show your support
