@@ -81,7 +81,7 @@ Ex: (1, 3)
 
 Participants must create a CRUD in memory (list as database) that has the 5 methods listed below:
 
-```post
+```jsx
 - CREATE - Create an item in the market list, the model created have a name, a price and an id. 
 Example: [{ id: 1, item: rice, price: 1.50}];
 - UPDATE - Update the price of an item. The item must be found through its id;
