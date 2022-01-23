@@ -12,7 +12,7 @@ export class ReadOneItemController {
         id,
       });
 
-      return response.status(201).json({ item: item });
+      return response.status(200).json({ item: item });
     } catch (error) {
       return response.status(400).json({
         message: error.message || "Unexpected error.",
