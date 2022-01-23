@@ -102,6 +102,8 @@ Exemple: [{ id: 1, originalCurrency: BRL, conversionCurrency: USD, valueSended: 
 - DELETE - Deletes an conversion registry from the list. The registry to be deleted is searched by its id;
 ```
 
+## 🚀 Usage
+
 ## Author
 
 👤 **Igor Jacques**
@@ -109,7 +111,7 @@ Exemple: [{ id: 1, originalCurrency: BRL, conversionCurrency: USD, valueSended: 
 - Instagram: [@jcqs0](https://instagram.com/jcqs0)
 - Github: [@igorjcqs](https://github.com/igorjcqs)
 
-## Show your support
+## 🤝 Show your support
 
 Please ⭐️ this repository if this project helped you!
 
