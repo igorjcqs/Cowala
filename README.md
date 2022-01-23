@@ -82,19 +82,22 @@ Ex: (1, 3)
 Participants must create a CRUD in memory (list as database) that has the 5 methods listed below:
 
 ```jsx
-- CREATE - Create an item in the market list, the model created have a name, a price and an id. 
+- CREATE - Create an item in the market list, the model created have a name, a price and an id.
 Example: [{ id: 1, item: rice, price: 1.50}];
 - UPDATE - Update the price of an item. The item must be found through its id;
 - READ-ALL - List all items in the market list;
-- READ-ONE - List a single item. The item is searched by its id;
+- READ-ONE - List a single item. The item to be listed is searched by its id;
 - DELETE - Deletes an item from the list. The item to be deleted is searched by its id;
 ```
 
-### 3. Criando um CRUD de uma lista de conversão de moedas consumindo uma api externa
+### 3. [Currency conversion 💵](https://github.com/igorjcqs/Cowala/tree/master/Backend-%232)
 
-Você deve criar um CRUD em memoria (lista como banco de dados) que tenham os 5 metodos listados abaixo. A diferença do exercicio anterior é que as informações para o crud virão de uma API Externa:  [https://economia.awesomeapi.com.br/last/USD-BRL](https://economia.awesomeapi.com.br/last/USD-BRL)
+Participants must create an in-memory CRUD (list as database) that have the 5 methods listed below. The difference from the previous exercise is that the information for the crud will come from an [External API](https://docs.awesomeapi.com.br/api-de-moedas).
 
-- CREATE - Deve ser possivel criar um registro no banco de dados contendo o valor enviado, o valor convertido, a moeda original e a moeda da conversão. Exemplo: [{ id:1, moedaOriginal: BRL, moedaDaConversão: USD, valorEnviado: 10, valorConvertido: 50 }]
-- READ-ALL - Deve ser possivel lista todos registros de conversão feitos
-- READ-ONE - Deve ser possivel lista um registro de conversão buscando pelo ID da conversão
-- DELETE - Deve ser possivel deletar um registro de conversão
+```jsx
+- CREATE - Create a record in the database containing the submitted amount, the converted amount, the original currency and the conversion currency.
+Exemple: [{ id: 1, originalCurrency: BRL, conversionCurrency: USD, valueSended: 10, convertedValue: 50 }]
+- READ-ALL - List all conversion registrys;
+- READ-ONE - List a single conversion registry. The registry to be listed is searched by its id;
+- DELETE - Deletes an conversion registry from the list. The registry to be deleted is searched by its id;
+```
