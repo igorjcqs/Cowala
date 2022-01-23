@@ -13,3 +13,33 @@
 </p>
 
 ## 🗣 About
+This is a Koala Software backend test project, where participants received 3 challenges, which are:
+
+### 1. Algorithms
+
+**1.1 fibonacci.js**
+
+Crie uma função que sempre recebe um número como argumento, e deve retornar uma array com os N elementos da sequência de Fibonacci.
+
+<aside>
+💡 Ex.: ao passar 6 como argumento, deve retornar: **[0, 1, 1, 2, 3, 5]**.
+</aside>
+
+### 2. Market list
+
+Participants must have a CRUD in memory (list as database) that has the 5 methods listed below:
+
+- CREATE - Create an item in the market list, the model created have a name, a price and an id. Example: [{ id: 1, item: rice, price: 1.50}];
+- UPDATE - Update the price of an item. The item must be found through its id;
+- READ-ALL - List all items in the market list;
+- READ-ONE - List a single item. The item is searched by its id;
+- DELETE - Deletes an item from the list. The item to be deleted is searched by its id;
+
+### 3. Criando um CRUD de uma lista de conversão de moedas consumindo uma api externa
+
+Você deve criar um CRUD em memoria (lista como banco de dados) que tenham os 5 metodos listados abaixo. A diferença do exercicio anterior é que as informações para o crud virão de uma API Externa:  [https://economia.awesomeapi.com.br/last/USD-BRL](https://economia.awesomeapi.com.br/last/USD-BRL)
+
+- CREATE - Deve ser possivel criar um registro no banco de dados contendo o valor enviado, o valor convertido, a moeda original e a moeda da conversão. Exemplo: [{ id:1, moedaOriginal: BRL, moedaDaConversão: USD, valorEnviado: 10, valorConvertido: 50 }]
+- READ-ALL - Deve ser possivel lista todos registros de conversão feitos
+- READ-ONE - Deve ser possivel lista um registro de conversão buscando pelo ID da conversão
+- DELETE - Deve ser possivel deletar um registro de conversão
