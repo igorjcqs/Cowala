@@ -104,10 +104,13 @@ Exemple: [{ id: 1, originalCurrency: BRL, conversionCurrency: USD, valueSended: 
 
 ## 🚀 Usage
 
-## Prerequisites
+### Prerequisites
+
+```jsx
 - node >= 17.3.0
 - yarn >= 1.22.15
 - git >= 2.31.1
+```
 
 ### Install
 
